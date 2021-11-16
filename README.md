@@ -37,13 +37,13 @@ Mediante o problema apresentado acima, busquei uma solução para conseguir entr
 
 ## Informações 1
 
-- O script [health_violations.py]() foi criado com o código fornecido pelo tutorial;
+- O script [health_violations.py](https://github.com/lilacostaro/aws_dio_desafio/blob/main/scripts/health_violations.py) foi criado com o código fornecido pelo tutorial;
 - O arquivo [food_establishment_data.zip](https://docs.aws.amazon.com/pt_br/emr/latest/ManagementGuide/samples/food_establishment_data.zip) foi baixado, extraído, e de forma manual foi carregado na pasta *data* do bucket *desafiodioaws* do S3;
 - Utilizando o prompet de comando nativo da AWS foram executados os comandos presentes no arquivo [bash_comands.bash]();
-- O arquivo gerado encontrasse na pasta [/respostas/food_establishment]().
+- O arquivo gerado encontrasse na pasta [/respostas/food_establishment](https://github.com/lilacostaro/aws_dio_desafio/tree/main/respostas/food_establishment).
 
 ## Informações 2
 
-- Com o intuito de realizar o que foi pedido no desafio, utilizei o script [worrcount_pyspark.py]() para contar as palavras do livro disponibilizado;
-- Os arquivos gerados estão na pasta [/respostas/sherlock]();
-- Como uma forma de facilitar a visualização dos dados, foi plotado um [gráfico]() de barras vertical com as 20 palavras mais utilizadas no livro.
+- Com o intuito de realizar o que foi pedido no desafio, utilizei o script [worrcount_pyspark.py](https://github.com/lilacostaro/aws_dio_desafio/blob/main/scripts/wordcount_pyspark.py) para contar as palavras do livro disponibilizado;
+- Os arquivos gerados estão na pasta [/respostas/sherlock](https://github.com/lilacostaro/aws_dio_desafio/tree/main/respostas/sherlock);
+- Como uma forma de facilitar a visualização dos dados, foi plotado um [gráfico](https://github.com/lilacostaro/aws_dio_desafio/blob/main/respostas/sherlock/sherlock.png) de barras vertical com as 20 palavras mais utilizadas no livro.
